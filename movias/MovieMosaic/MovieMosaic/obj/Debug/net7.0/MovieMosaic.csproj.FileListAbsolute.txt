@@ -1,0 +1,124 @@
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\appsettings.json
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\MovieMosaic.exe
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\MovieMosaic.deps.json
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\MovieMosaic.runtimeconfig.json
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\MovieMosaic.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\MovieMosaic.pdb
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.csproj.AssemblyReference.cache
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.AssemblyInfoInputs.cache
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.AssemblyInfo.cs
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.csproj.CoreCompileInputs.cache
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets\msbuild.MovieMosaic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieMosaic.props
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieMosaic.props
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MovieMosaic.props
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\scopedcss\bundle\MovieMosaic.styles.css
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.csproj.CopyComplete
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\refint\MovieMosaic.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.pdb
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.genruntimeconfig.cache
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\obj\Debug\net7.0\ref\MovieMosaic.dll
+C:\Users\Максим Всемогутній\source\repos\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\appsettings.Development.json
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\appsettings.json
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\MovieMosaic.exe
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\MovieMosaic.deps.json
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\MovieMosaic.runtimeconfig.json
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\MovieMosaic.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\MovieMosaic.pdb
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\AutoMapper.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Humanizer.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Npgsql.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\System.CodeDom.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.csproj.AssemblyReference.cache
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.GeneratedMSBuildEditorConfig.editorconfig
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.AssemblyInfoInputs.cache
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.AssemblyInfo.cs
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.csproj.CoreCompileInputs.cache
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.MvcApplicationPartsAssemblyInfo.cs
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.MvcApplicationPartsAssemblyInfo.cache
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets\msbuild.MovieMosaic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieMosaic.props
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieMosaic.props
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MovieMosaic.props
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets.pack.json
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets.build.json
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\staticwebassets.development.json
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\scopedcss\bundle\MovieMosaic.styles.css
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.csproj.CopyComplete
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\refint\MovieMosaic.dll
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.pdb
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\MovieMosaic.genruntimeconfig.cache
+C:\zxc\PV122_ASP.NET-main\MovieMosaic\MovieMosaic\obj\Debug\net7.0\ref\MovieMosaic.dll

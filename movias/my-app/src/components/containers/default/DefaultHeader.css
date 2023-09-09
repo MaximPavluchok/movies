@@ -1,0 +1,63 @@
+main {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.container{
+    height: 40px;
+}
+.catalog-movies{
+    width: 120px;
+    text-align: center;
+    height: 35px;
+    border-radius: 3px;
+    transition: 0.2s;
+}
+.catalog-movies:hover{
+    background-color: rgb(34, 34, 34);
+}
+.catalog-seved{
+    width: 120px;
+    text-align: center;
+    height: 35px;
+    border-radius: 3px;
+    transition: 0.2s;
+}
+.catalog-seved:hover{
+    background-color: rgb(34, 34, 34);
+}
+
+.navbar-brand{
+    position: relative;
+    left: -50px;
+    top: -5px;
+    width: 120px;
+    height: 35px;
+}
+.catalog-name{
+    position: relative;
+    top:4px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+#shapka{
+    background-color: rgb(24, 24, 24);
+    border-bottom: 1px solid rgb(175, 175, 175);
+
+}
+.search-movies-div{
+    position: relative;
+    left: -65px;
+}
+.search-movies{
+    position: relative;
+    height: 35px;
+    background-color: rgb(34, 34, 34);
+    border-bottom: 0px;
+    border-radius: 3px;
+    font-size: 15px;
+    width: 810px;
+}
+.nav-item{
+    position: relative;
+    left: -65px;
+}

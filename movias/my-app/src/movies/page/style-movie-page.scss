@@ -1,0 +1,296 @@
+.movie-details-{
+    position: relative;
+    left: -40px;
+    height: 227px;
+    width: 100%;
+    margin-top: 15px;
+    min-width: 107%;
+    z-index: 100;
+    transition: 0.1s;
+}
+
+.img-plakat-{
+    position: relative;
+    left: 0px;
+    height: 253px;
+    width: 176px;
+    border-radius: 3px; 
+}
+.text-{
+    position: absolute;
+    top: 5px;
+    left: 190px;
+}
+.movie-name-{
+    font-size: 45px;
+    color: rgb(221, 221, 221);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.movie-description-{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.description-div-{
+    position: relative;
+    top: 0px;
+    margin-top: 10px;
+    width: 100%;
+    height: 0px;
+}
+.movie-list-item-{
+    position: relative;
+    left: 0px;
+    min-width: 100%;
+    z-index: 100;
+}
+.originalName-{
+    position: relative;
+    top: -5px;
+    font-size: 18px;
+    color: rgb(189, 189, 189);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Age-{
+    margin: 0px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    left: 2px;
+    text-align: center;
+    position: relative;
+    top: 6px;
+}
+.age-div{
+    background-color: rgb(27, 27, 27);
+    width: 50px;
+    height: 30px;
+    border-radius: 3px;
+    position: relative;
+    top: -100px;
+    left: 156px;
+}
+.saved-text{
+    margin: 0px;
+    color: white;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    position: relative;
+
+}
+.saved-div{
+    background-color: rgb(27, 27, 27);
+    width: 120px;
+    height: 40px;
+    border-radius: 3px;
+    position: relative;
+    top: -27px;
+    left: 0px;
+    transition: 0.2s;
+    border: 0px;
+}
+.saved-div:hover{
+    background-color: rgb(78, 78, 78);
+    cursor: pointer;
+
+}
+.ratings-div-{
+    background-color: rgb(27, 27, 27);
+    width: 50px;
+    height: 30px;
+    border-radius: 3px;
+}
+.ratings-{
+    position: relative;
+    text-align: center;
+    top: 7px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.date_Release-div-{
+    position: relative;
+    top: -30px;
+    left: 53px;
+    background-color: rgb(27, 27, 27);
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+}
+.date_Release-{
+    position: relative;
+    text-align: center;
+    top: 6px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.categories-div-{
+    position: relative;
+    top: -10px;
+    left: 0px;
+    color: rgb(189, 189, 189);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.line-1-{
+    width: 100%;
+    height: 150px;
+}
+
+.movie-play{
+    position: relative;
+    background-color: black;
+    width: 87%;
+    height: 600px;
+    left: 49%;
+    top: 400px;
+    transform: translate(-50%, -50%);
+}
+.pause{
+    position: relative;
+    top: 20px;
+    left: 24px;
+    border: 10px solid transparent;
+    border-left: 17px solid rgb(245, 245, 245);
+    border-radius: 2px;
+}
+.next{
+    position: relative;
+    top: 13px;
+    left: -14px;
+    border-top: 10px solid transparent;
+    border-right: 15px solid #ffffff;
+    border-bottom: 10px solid transparent;
+    border-radius: 3px;
+}
+.back{
+    position: relative;
+    border-top: 10px solid transparent;
+    border-left: 15px solid #ffffff;
+    border-bottom: 10px solid transparent;
+    border-radius: 3px;
+    top: 13px;
+    left: 13px;
+}
+.line5-1{
+    position: relative;
+    left: 27px;
+    top: -5px;
+    width: 2px;
+    height: 16px;
+    background-color: white;
+}
+
+.line4-1{
+    position: relative;
+    left: 13px;
+    top: -5px;
+    width: 2px;
+    height: 16px;
+    background-color: white;
+}
+.line5-{
+    height: 45px;
+    width: 45px;
+    border-radius: 100px;
+    position: relative;
+    left: 673px;
+    top: 358px;
+    transform: translate(-50%, -50%);
+    transition: 0.2s;
+}
+.line5-:hover{
+    background-color: rgb(20, 20, 20);
+    cursor: pointer;
+}
+.line4-{
+    height: 45px;
+    width: 45px;
+    border-radius: 100px;
+    position: relative;
+    left: 550px;
+    top: 404px;
+    transform: translate(-50%, -50%);
+    transition: 0.2s;
+}
+.line4-:hover{
+    background-color: rgb(20, 20, 20);
+    cursor: pointer;
+}
+
+.line3-{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    position: relative;
+    left: 51%;
+    top: 464px;
+    transform: translate(-50%, -50%);
+    transition: 0.2s;
+}
+.line3-:hover{
+    background-color: rgb(20, 20, 20);
+    cursor: pointer;
+}
+.line1-{
+    position: relative;
+    left: 10px;
+    top: 450px;
+    width: 1180px;
+    height: 2px;
+    background-color: rgb(68, 68, 68);
+}
+.line1-1{
+    position: relative;
+    left: 10px;
+    top: 444px;
+    width: 1180px;
+    height: 10px;
+    background-color: rgba(255, 0, 0, 0);
+}
+
+.line1-1:hover{
+    cursor: pointer;
+}
+.line2-{
+    position: relative;
+    left: 8px;
+    top: 434px;
+    width: 10px;
+    height: 10px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 100px;
+}
+
+.load{
+    position: relative;
+    top: 40%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    height: 80px;
+    width: 80px;
+    border: 5px solid white;
+    border-left:5px solid black ;
+    border-radius: 100px;
+    animation: rotate 1.5s linear infinite;
+}
+@keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(75deg);
+    }
+    50% {
+        transform: rotate(150deg);
+    }
+    75% {
+        transform: rotate(235deg);
+    }
+    
+    100% {
+      transform: rotate(360deg);
+    }
+}

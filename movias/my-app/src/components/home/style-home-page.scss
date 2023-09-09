@@ -1,0 +1,137 @@
+.movies-list{
+    position: relative;
+    left: 0px;
+    min-width: 100%;
+    width: 100%;
+}
+.movies{
+    position: relative;
+    left: 0px;
+    min-width: 100%;
+    width: 100%;
+}
+.filter{
+    text-align: center;
+    width: 160px;
+    height: 45px;
+    margin-top: 5px;
+    background-color: rgb(31, 31, 31);
+    position: relative;
+    top: 10px;
+    left: -60px;
+    border-radius: 3px;
+    transition: 0.2s;
+}
+.filter:hover{
+    cursor: pointer;
+    background-color: rgb(68, 68, 68);
+}
+.movies-list-page{
+    transition: 0.5s;
+}
+.filter-text{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 27px;
+    position: relative;
+    top: 6px;
+    left: -8px;
+}
+.filter-menu{
+    transition: 0.3s;
+    width: 107%;
+    position: relative;
+    left: -60px;
+    top: 10px;
+}
+.kategorie{
+    width: 100%;
+    background-color: rgb(22, 22, 22);
+    transition: 0.3s;
+    border-radius: 3px;
+    position: relative;
+    top: 10px;
+    margin-bottom: 20px;
+}
+.period{
+    width: 100%;
+    background-color: rgb(22, 22, 22);
+    transition: 0.3s;
+    border-radius: 3px;
+    position: relative;
+    top: 0px;
+    overflow-x: hidden;
+    margin-bottom: 10px;
+}
+.sorting{
+    position: relative;
+    width: 100%;
+    background-color: rgba(22, 22, 22, 0);
+    transition: 0.3s;
+    border-radius: 3px;
+    height: 150px;
+}
+select{
+    position: relative;
+    left: 15px;
+}
+select::-ms-expand {
+    display: none;
+    background-color: rgb(22, 22, 22);
+}
+option{
+    background-color: rgb(22, 22, 22);
+    border-radius: 3px;
+}
+.sort{
+    width: 90%;
+    height: 0px;
+    background-color: rgba(153, 153, 153, 0);
+    color: white;
+    border-radius: 3px;
+    border: 0px;
+    border-color: white;
+    transition: 0.2s;
+}
+.sort:hover{
+    border: 1px solid white;
+    cursor: pointer;
+}
+.checkboxs{
+    transition: 0.1s;
+    width: 0px;
+    margin: -10px;
+    position: relative;
+    left: 25px;
+}
+.name-category{
+    position: relative;
+    left: 45px;
+    top: -19px;
+    transition: 0.1s;
+    font-size: 10px;
+    color: white;
+}
+.text-1{
+    transition: 0.1s;
+    color: white;
+    font-size: 0px;
+    position: relative;
+    top: 10px;
+    left: 15px;
+}
+.text-2{
+    transition: 0.1s;
+    color: rgb(212, 212, 212);
+    font-size: 0px;
+    position: relative;
+    left: 15px;
+}
+.body-scroll-lock {
+    overflow: hidden;
+  }
+  
+  /* Включение скролла */
+  .body-scrollable {
+    overflow: auto;
+  }
