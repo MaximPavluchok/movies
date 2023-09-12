@@ -4,10 +4,8 @@ import * as yup from "yup";
 import { useFormik } from "formik";
 import classNames from "classnames";
 
-// Импортируйте типы
 import { IRegister, ILoginResult } from "./types";
 
-// Подставьте правильный импорт для вашего HTTP-клиента
 import http from "../../../http";
 
 import './auth-style.scss';
@@ -21,7 +19,7 @@ const RegisterPage: React.FC = () => {
     email: "",
     password: "",
     confirmPassword: "",
-    image: null as File | null, // Установите тип как File | null
+    image: null as File | null, 
   };
 
   const [error, setError] = useState<string>("");
@@ -47,7 +45,6 @@ const RegisterPage: React.FC = () => {
       formData.append("password", values.password);
       formData.append("confirmPassword", values.confirmPassword);
       
-      // Проверяем, был ли выбран файл
       if (values.image && values.image instanceof File) {
         formData.append("image", values.image);
       }
@@ -146,7 +143,7 @@ const RegisterPage: React.FC = () => {
               ImageUrl
             </label>
             <input
-              type="file" // Изменили тип на file для выбора файла
+              type="file" 
               className={classNames("image-auth", {
                 "is-invalid": errors.image && touched.image,
               })}
@@ -154,7 +151,6 @@ const RegisterPage: React.FC = () => {
               name="image"
               onChange={(event) => {
                 handleChange(event);
-                // Проверяем, есть ли файл в событии
                 if (event.currentTarget.files && event.currentTarget.files[0]) {
                   formik.setFieldValue("image", event.currentTarget.files[0]);
                 }

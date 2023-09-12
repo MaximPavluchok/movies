@@ -2244,11 +2244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\zxc\\PV122_ASP.NET-main\\MovieMosaic\\MovieMosaic\\MovieMosaic.csproj",
+      "projectUniqueName": "C:\\git\\movies\\movias\\MovieMosaic\\MovieMosaic\\MovieMosaic.csproj",
       "projectName": "MovieMosaic",
-      "projectPath": "C:\\zxc\\PV122_ASP.NET-main\\MovieMosaic\\MovieMosaic\\MovieMosaic.csproj",
+      "projectPath": "C:\\git\\movies\\movias\\MovieMosaic\\MovieMosaic\\MovieMosaic.csproj",
       "packagesPath": "C:\\Users\\Максим Всемогутній\\.nuget\\packages\\",
-      "outputPath": "C:\\zxc\\PV122_ASP.NET-main\\MovieMosaic\\MovieMosaic\\obj\\",
+      "outputPath": "C:\\git\\movies\\movias\\MovieMosaic\\MovieMosaic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Максим Всемогутній\\AppData\\Roaming\\NuGet\\NuGet.Config",

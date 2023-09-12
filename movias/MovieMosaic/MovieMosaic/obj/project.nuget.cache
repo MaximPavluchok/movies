@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eYiuayaVxpmznj8ObK9AMwE6G2fF/hask/z38JoYgZLKe7CVUyuZnAk/QzuN9Ib0KG5OMqO9uYoaivLKF0zC6A==",
+  "dgSpecHash": "XbV9adaKvGWo9SaUGxE/tPFAN8qZreBsx5bVjQ+x3ZpFRtQxeEKgSZPS2bC6QhldV8IIZITI/lOLWRsS5MaqLQ==",
   "success": true,
-  "projectFilePath": "C:\\zxc\\PV122_ASP.NET-main\\MovieMosaic\\MovieMosaic\\MovieMosaic.csproj",
+  "projectFilePath": "C:\\git\\movies\\movias\\MovieMosaic\\MovieMosaic\\MovieMosaic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Максим Всемогутній\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Максим Всемогутній\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -17,7 +17,7 @@ const AdminSidebar = () => {
                         <li className="nav-item">
                             <Link className="nav-link d-flex align-items-center gap-2" to="/admin/categories">
                                 <i className={"bi bi-file-earmark"}></i>
-                                Категорії
+                                Жанри
                             </Link>
                         </li>
                         <li className="nav-item">

@@ -59,7 +59,6 @@ const MoviesCreatePage = () => {
             <form className="col-md-6 offset-md-3" onSubmit={handleSubmit} noValidate>
                 <h1 className={"text-center"}>Добавлення фільму</h1>
                 <MoviesInputString values={values} errors={errors} touched={touched} handleChange={handleChange}></MoviesInputString>
-                {/* <MoviesFileInputGroup images={images} setImages={updateImages}></MoviesFileInputGroup> */}
                 <h6>Оберіть категорію фільму</h6>
                 <CategoryParentSelect setProductId={updateParentID}></CategoryParentSelect>
                 <button className="btn btn-primary" type="submit">Додати фільм</button>

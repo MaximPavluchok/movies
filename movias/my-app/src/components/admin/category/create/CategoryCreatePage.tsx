@@ -27,7 +27,6 @@ const CategoryCreatePage = () => {
         },
       })
       .then((resp) => {
-        //console.log("Create date in server", resp);
         navigator("..");
       });
   };

@@ -27,7 +27,6 @@ const MovieDetailsPage: FC = () => {
 
   const handleSaveMovie = async () => {
     try {
-      // Отправляем POST-запрос на сервер для сохранения фильма
       await fetch(`/api/movies/save/${movieId}`, {
         method: "POST",
         headers: {
@@ -35,7 +34,6 @@ const MovieDetailsPage: FC = () => {
         },
       });
 
-      // Если запрос успешен, устанавливаем флаг isSaved в true
       setIsSaved(true);
     } catch (error) {
       console.error("Error saving movie:", error);

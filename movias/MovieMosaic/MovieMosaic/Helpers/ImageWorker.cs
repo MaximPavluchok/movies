@@ -39,39 +39,31 @@ namespace MovieMosaic.Helpers
                 {
                     using (Graphics oGraphics = Graphics.FromImage(outBmp))
                     {
-                        //oGraphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
-                        //oGraphics.InterpolationMode = System.Drawing.Drawing2D.InterpolationMode.HighQualityBicubic;
                         oGraphics.Clear(Color.White);
                         oGraphics.DrawImage(originalPic, 0, 0, width, height);
-                        //Watermark
                         if (watermark)
                         {
 
                             using (Image watermarkImage = Image.FromFile(Path.Combine(Directory.GetCurrentDirectory(), "images", "lohika_watermark.png")))
                             using (TextureBrush watermarkBrush = new TextureBrush(watermarkImage))
                             {
-                                //Not responsive
-                                //int x = (outBmp.Width - watermarkImage.Width - 15);
-                                //int y = (outBmp.Height - watermarkImage.Height -15);
                                 double imageHeightBrand = Convert.ToDouble(watermarkImage.Height);
                                 double imageWidthBrand = Convert.ToDouble(watermarkImage.Width);
                                 double ratioBrand = imageWidthBrand / imageHeightBrand;
 
-                                double imageHeightBild = Convert.ToDouble(outBmp.Height); //height of the image to watermark
+                                double imageHeightBild = Convert.ToDouble(outBmp.Height);
                                 double imageWidthBild = Convert.ToDouble(outBmp.Width);
-                                var imageWidthTmpBranding = imageWidthBild * 0.2; //the watermark width, but only 20% size of the image to watermark
-                                var imageHeightTmpBranding = imageWidthTmpBranding / ratioBrand; //height of watermark, preserve aspect ratio
-                                int imageWidthBranding = Convert.ToInt32(imageWidthTmpBranding); //convert in into int32 (see method below)
+                                var imageWidthTmpBranding = imageWidthBild * 0.2;
+                                var imageHeightTmpBranding = imageWidthTmpBranding / ratioBrand;
+                                int imageWidthBranding = Convert.ToInt32(imageWidthTmpBranding); 
                                 int imageHeightBranding = Convert.ToInt32(imageHeightTmpBranding);
 
-                                int watermarkX = (int)(imageWidthBild - imageWidthBranding); // Bottom Right
+                                int watermarkX = (int)(imageWidthBild - imageWidthBranding);
                                 int watermarkY = (int)(imageHeightBild - imageHeightBranding);
                                 oGraphics.DrawImage(watermarkImage,
                                     new Rectangle(watermarkX, watermarkY, imageWidthBranding, imageHeightBranding),
                                     new Rectangle(0, 0, (int)imageWidthBrand, (int)imageHeightBrand),
                                     GraphicsUnit.Pixel);
-                                //watermarkBrush.TranslateTransform(watermarkX, watermarkY);
-                                //oGraphics.FillRectangle(watermarkBrush, new Rectangle(new Point(watermarkX, watermarkY), new Size(watermarkImage.Width, watermarkImage.Height)));
                             }
                         }
                         if (transperent)
